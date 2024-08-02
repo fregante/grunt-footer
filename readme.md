@@ -2,6 +2,9 @@
 
 > Add a footer to files
 
+Welcome to my least-starred repo.
+
+![](https://github.com/sindresorhus/sindresorhus/raw/main/unicorn.gif)
 
 ## Install
 
